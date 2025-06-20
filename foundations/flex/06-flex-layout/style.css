@@ -27,9 +27,11 @@ input {
   width: 400px;
 }
 
+
 a {
   text-decoration: none;  
   color: gray;
+  
 }
 
 ul{
@@ -39,6 +41,8 @@ ul{
   justify-content: space-around;
   padding-inline-start: 10px;
   padding-inline-end: 10px;
+  
+  
 }
 
 .header{
